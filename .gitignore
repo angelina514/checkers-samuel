@@ -1,0 +1,13 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境
+.venv/
+
+# PyCharm
+.idea/
+
+# 实验产物
+data/
+logs/
